@@ -25,6 +25,7 @@
 /* NAVBAR */
 #navbar {
     border-bottom: 1px solid #7a7a7a;
+    background-color: #90cdd8;
 }
 
 #navbar a {
@@ -32,7 +33,7 @@
 }
 
 #navbar a:hover {
-    color: #7a7a7a;
+    color: #005b6b;
 }
 
 #navbar .active {
@@ -271,7 +272,7 @@
 }
 
 #social-icons i:hover {
-    color: #7a7a7a;
+    color: #005b6b;
 }
 
 /* FOOTER DETAILS */
@@ -315,7 +316,7 @@
     padding-top: 2em;
 }
 
-#footer-bottom i {
+#Inscrever:hover {
     color: #e61e10;
 }
 
